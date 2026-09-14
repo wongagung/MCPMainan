@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "roblox-universal": {
+      "command": "node",
+      "args": [
+        "D:\\Roblox-Universal-MCP\\server\\index.mjs"
+      ],
+      "env": {
+        "ROBLOX_MCP_HOST": "127.0.0.1",
+        "ROBLOX_MCP_PORT": "58888",
+        "ROBLOX_MCP_TOKEN": "roblox-universal-mcp-local"
+      }
+    }
+  }
+}
