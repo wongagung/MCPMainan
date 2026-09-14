@@ -1,0 +1,8 @@
+# SHA-256 checksums
+#
+# The plugin source is tracked directly in Git. GitHub's canonical blob SHA-1 for
+# plugin/RobloxUniversalMCP.lua at v2.0.0 package time is:
+# da75cd6a206692d341de6e303f57bb75f8069a05
+#
+# SHA-256 values below are for the published text installer asset.
+d78803c0079e20852903b7649309481316b41a8634d5ced4be3fc12725284fe6  installer/Install-RobloxUniversalMCPPlugin.ps1
